@@ -1,0 +1,11 @@
+Attributes - Properties
+Grade
+Color
+
+
+Behaviours
+
+Table - It can be used for writing and keep the things From the ground.
+Chair - It can be used for citing and taking rest.
+Cupboards - It can be used for keep the things safely .
+Stool - It can be used for citing and used to keep things .
